@@ -1,9 +1,5 @@
 //
 //  mergeSort.cpp
-//  hackerRank
-//
-//  Created by Amar on 11/26/17.
-//  Copyright © 2017 Amar. All rights reserved.
 //
 
 #include <iostream>
